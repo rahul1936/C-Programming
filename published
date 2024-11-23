@@ -1,0 +1,15 @@
+#include<stdio.h>
+void main()
+{
+    int a=50525,b=40399;
+    int sum;
+    printf("Number of books in first edition:%d\n",a);
+    printf("Number of books in second edition:%d\n",b);
+    sum=a=b;
+    printf("Total number of books: %d",sum);
+}
+
+
+
+
+
